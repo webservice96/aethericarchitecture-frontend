@@ -1,0 +1,85 @@
+@media (max-width: 768px) {
+	/* common custom css classes */
+    .mb-mob{
+        margin-bottom: 40px;
+    }
+
+    .service-mob-revers{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .d-mob-none{
+        display: none;
+    }
+
+
+    .section-bt-space{
+        margin-bottom: 50px;
+    }
+
+    .skip-header-space{
+        margin-top: 111px;
+    }
+
+	/* home hero */
+	.home-hero h2 {
+		font-size: 32px;
+	}
+
+    /* footer */
+    .copyright-text p {
+        font-size: 13px;
+    }
+
+    /* services css */
+    .hero-heading h2 {
+        font-size: 28px;
+    }
+    
+    .service-hero-left {
+        padding: 2rem;
+    }
+
+    .service-cta-text-content {
+        padding: 0;
+    }
+
+    /* terms and privacy */
+    .page-hero-breadcumb h2 {
+        font-size: 28px;
+    }
+
+    /* single social icons */
+    .single-social-icons {
+        flex-direction: unset;
+        column-gap: 12px;
+        justify-content: center;
+    }
+    
+    .single-social-share {
+        text-align: center;
+        margin-top: 12px;
+    }
+
+    /* blog post search */
+    .form-box div {
+        width: 100%;
+        margin-bottom: 12px;
+    }
+    
+    .form-box button {
+        width: 50%;
+    }
+    
+    .form-box {
+        border: none;
+        padding: 10px;
+    }
+
+    .contact-form {
+        border: none;
+        padding: 0;
+        margin: 0;
+    }
+}
